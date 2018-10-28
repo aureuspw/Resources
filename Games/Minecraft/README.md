@@ -1,4 +1,4 @@
-# Programming Resources
+# Minecraft Resources
 Here, you will find resources regarding the popular sandbox game [Minecraft](https://minecraft.net). These resources will be divided in the following categories:
  
  - Tutorials
